@@ -16,6 +16,7 @@ import Counter from './08_useState/Counter';
 import MyComponentOnChange from './09_onChange/MyComponentOnChange.jsx';
 import ColorPicker from "./10_ColorPicker/ColorPicker.jsx";
 import UpdaterFunction from './11_UpdaterFunction/UpdaterFunction'
+import UpdateObjects from "./12_UpdateObjects/UpdateObjects.jsx"
 
 function App() {
 
@@ -57,10 +58,9 @@ function App() {
       <Counter /> */}
 
       {/* <MyComponentOnChange /> */}
-
       {/* <ColorPicker /> */}
-
       {/* <UpdaterFunction /> */}
+      {/* <UpdateObjects /> */}
     </>
   )
 }
