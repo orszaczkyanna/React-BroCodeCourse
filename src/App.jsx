@@ -17,6 +17,7 @@ import MyComponentOnChange from './09_onChange/MyComponentOnChange.jsx';
 import ColorPicker from "./10_ColorPicker/ColorPicker.jsx";
 import UpdaterFunction from './11_UpdaterFunction/UpdaterFunction'
 import UpdateObjects from "./12_UpdateObjects/UpdateObjects.jsx"
+import UpdateArray from './13_UpdateArray/UpdateArray.jsx'
 
 function App() {
 
@@ -61,6 +62,7 @@ function App() {
       {/* <ColorPicker /> */}
       {/* <UpdaterFunction /> */}
       {/* <UpdateObjects /> */}
+      {/* <UpdateArray /> */}
     </>
   )
 }
