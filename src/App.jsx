@@ -1,28 +1,29 @@
-import Card from './02_Cards/Card.jsx'
-import Button from './03_CSS/Button/Button.jsx'
-import ButtonSecond from './03_CSS/ButtonSecond.jsx'
-import Student from './04_Props/Student.jsx'
-import UserGreeting from './05_ConditionalRender/UserGreeting.jsx'
+// import Card from './02_Cards/Card.jsx'
+// import Button from './03_CSS/Button/Button.jsx'
+// import ButtonSecond from './03_CSS/ButtonSecond.jsx'
+// import Student from './04_Props/Student.jsx'
+// import UserGreeting from './05_ConditionalRender/UserGreeting.jsx'
 
-import List from './06_Lists/List.jsx'
-import ListSimpleArray from './06_Lists/ListSimpleArray.jsx'
-import ListObjectArray from './06_Lists/ListObjectArray.jsx'
+// import List from './06_Lists/List.jsx'
+// import ListSimpleArray from './06_Lists/ListSimpleArray.jsx'
+// import ListObjectArray from './06_Lists/ListObjectArray.jsx'
 
-import ButtonClick from './07_ClickEvents/Button.jsx'
-import ProfilePictureButton from './07_ClickEvents/ProfilePictureButton.jsx'
+// import ButtonClick from './07_ClickEvents/Button.jsx'
+// import ProfilePictureButton from './07_ClickEvents/ProfilePictureButton.jsx'
 
-import MyComponentUseState from './08_useState/MyComponentUseState.jsx';
-import Counter from './08_useState/Counter';
-import MyComponentOnChange from './09_onChange/MyComponentOnChange.jsx';
-import ColorPicker from "./10_ColorPicker/ColorPicker.jsx";
-import UpdaterFunction from './11_UpdaterFunction/UpdaterFunction'
-import UpdateObjects from "./12_UpdateObjects/UpdateObjects.jsx"
-import UpdateArray from './13_UpdateArray/UpdateArray.jsx'
-import UpdateArrayOfObjects from "./14_UpdateArrayOfObjects/UpdateArrayOfObjects.jsx"
+// import MyComponentUseState from './08_useState/MyComponentUseState.jsx';
+// import Counter from './08_useState/Counter';
+// import MyComponentOnChange from './09_onChange/MyComponentOnChange.jsx';
+// import ColorPicker from "./10_ColorPicker/ColorPicker.jsx";
+// import UpdaterFunction from './11_UpdaterFunction/UpdaterFunction'
+// import UpdateObjects from "./12_UpdateObjects/UpdateObjects.jsx"
+// import UpdateArray from './13_UpdateArray/UpdateArray.jsx'
+// import UpdateArrayOfObjects from "./14_UpdateArrayOfObjects/UpdateArrayOfObjects.jsx"
+// import ToDoList from './15_ToDoListApp/ToDoList.jsx'
 
 function App() {
 
-
+  // 06 Lists
   // const fruits = [{ id: 1, name: "apple", calories: 95 },
   //                 { id: 2, name: "orange", calories: 45 },
   //                 { id: 3, name: "banana", calories: 105 },
@@ -65,6 +66,7 @@ function App() {
       {/* <UpdateObjects /> */}
       {/* <UpdateArray /> */}
       {/* < UpdateArrayOfObjects/> */}
+      {/* <ToDoList /> */}
     </>
   )
 }
