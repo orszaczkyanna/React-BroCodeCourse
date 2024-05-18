@@ -24,7 +24,8 @@
 // import MyCompUseEffect_Count from './16_useEffect/MyCompUseEffect_Count.jsx'
 // import MyCompUseEffect_WidthHeight from './16_useEffect/MyCompUseEffect_WidthHeight.jsx'
 
-import DigitalClock from './17_DigitalClock/DigitalClock.jsx'
+// import DigitalClock from './17_DigitalClock/DigitalClock.jsx'
+import ComponentA from './18_useContext/ComponentA.jsx'
 
 function App() {
 
@@ -76,7 +77,8 @@ function App() {
       {/* <MyCompUseEffect_Count />
       < MyCompUseEffect_WidthHeight /> */}
 
-      < DigitalClock/>
+      {/* < DigitalClock/> */}
+      <ComponentA />
 
     </>
   )
