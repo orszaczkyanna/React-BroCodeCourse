@@ -21,8 +21,10 @@
 // import UpdateArrayOfObjects from "./14_UpdateArrayOfObjects/UpdateArrayOfObjects.jsx"
 // import ToDoList from './15_ToDoListApp/ToDoList.jsx'
 
-import MyCompUseEffect_Count from './16_useEffect/MyCompUseEffect_Count.jsx'
-import MyCompUseEffect_WidthHeight from './16_useEffect/MyCompUseEffect_WidthHeight.jsx'
+// import MyCompUseEffect_Count from './16_useEffect/MyCompUseEffect_Count.jsx'
+// import MyCompUseEffect_WidthHeight from './16_useEffect/MyCompUseEffect_WidthHeight.jsx'
+
+import DigitalClock from './17_DigitalClock/DigitalClock.jsx'
 
 function App() {
 
@@ -71,8 +73,10 @@ function App() {
       {/* < UpdateArrayOfObjects/> */}
       {/* <ToDoList /> */}
 
-      {/* <MyCompUseEffect_Count /> */}
-      < MyCompUseEffect_WidthHeight />
+      {/* <MyCompUseEffect_Count />
+      < MyCompUseEffect_WidthHeight /> */}
+
+      < DigitalClock/>
 
     </>
   )
