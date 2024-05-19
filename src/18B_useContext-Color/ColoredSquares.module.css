@@ -1,0 +1,17 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.number{
+    border: 3px solid #2c2c2c;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 10px 0 0;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+input[type="color"]{
+    margin: 5px 5px 0 0;
+}

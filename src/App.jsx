@@ -25,7 +25,8 @@
 // import MyCompUseEffect_WidthHeight from './16_useEffect/MyCompUseEffect_WidthHeight.jsx'
 
 // import DigitalClock from './17_DigitalClock/DigitalClock.jsx'
-import ComponentA from './18_useContext/ComponentA.jsx'
+// import ComponentA from './18_useContext/ComponentA.jsx'
+import ColoredSquares from './18B_useContext-Color/ColoredSquares.jsx'
 
 function App() {
 
@@ -78,7 +79,8 @@ function App() {
       < MyCompUseEffect_WidthHeight /> */}
 
       {/* < DigitalClock/> */}
-      <ComponentA />
+      {/* <ComponentA /> */}
+      <ColoredSquares />
 
     </>
   )
