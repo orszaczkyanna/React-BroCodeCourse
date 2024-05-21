@@ -26,7 +26,8 @@
 
 // import DigitalClock from './17_DigitalClock/DigitalClock.jsx'
 // import ComponentA from './18_useContext/ComponentA.jsx'
-import ColoredSquares from './18B_useContext-Color/ColoredSquares.jsx'
+// import ColoredSquares from './18B_useContext-Color/ColoredSquares.jsx'
+import UseRefComponent from './19_useRef/useRefComponent.jsx'
 
 function App() {
 
@@ -80,7 +81,8 @@ function App() {
 
       {/* < DigitalClock/> */}
       {/* <ComponentA /> */}
-      <ColoredSquares />
+      {/* <ColoredSquares /> */}
+      <UseRefComponent />
 
     </>
   )
