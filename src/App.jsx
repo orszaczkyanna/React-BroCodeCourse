@@ -1,7 +1,8 @@
 // import CheckedProperty from './01_CheckedProperty/CheckedProperty.jsx'
 // import Switch from './02_Switch/Switch.jsx'
 // import NumberGuessingGame from './03_NumberGuessingGame/NumberGuessingGame.jsx'
-import TemperatureConversion from './04_TemperatureConversion/TemperatureConversion.jsx'
+// import TemperatureConversion from './04_TemperatureConversion/TemperatureConversion.jsx'
+import Arrays from './05_Arrays/Arrays.jsx'
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       {/* <CheckedProperty /> */}
       {/* <Switch /> */}
       {/* <NumberGuessingGame /> */}
-      <TemperatureConversion />
+      {/* <TemperatureConversion /> */}
+      <Arrays />
     </>
   )
 }
