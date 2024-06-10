@@ -3,7 +3,8 @@
 // import NumberGuessingGame from './03_NumberGuessingGame/NumberGuessingGame.jsx'
 // import TemperatureConversion from './04_TemperatureConversion/TemperatureConversion.jsx'
 // import Arrays from './05_Arrays/Arrays.jsx'
-import DiceRoller from './06_DiceRoller/DiceRoller.jsx'
+// import DiceRoller from './06_DiceRoller/DiceRoller.jsx'
+import PasswordGenerator from './07_PasswordGenerator/PasswordGenerator.jsx'
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <NumberGuessingGame /> */}
       {/* <TemperatureConversion /> */}
       {/* <Arrays /> */}
-      <DiceRoller />
+      {/* <DiceRoller /> */}
+      <PasswordGenerator />
     </>
   )
 }
