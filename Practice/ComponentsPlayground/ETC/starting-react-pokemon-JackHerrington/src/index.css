@@ -1,0 +1,19 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  /* font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
+}
+
+.title {
+  text-align: center;
+}
+
+th {
+  text-align: left;
+  font-size: x-large;
+}
+
+input {
+  width: 100%;
+  font-size: x-large;
+  padding: 0.2rem;
+}
